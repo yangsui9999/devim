@@ -18,9 +18,6 @@ Plug 'kristijanhusak/defx-git', {'on':'Defx'}
 Plug 'Shougo/defx.nvim', { 'do': ':UpdateRemotePlugins'}
 Plug 'kristijanhusak/defx-icons'
 
-" 终端
-Plug 'vimlab/split-term.vim'
-
 "  view && search
 Plug 'liuchengxu/vista.vim'
 

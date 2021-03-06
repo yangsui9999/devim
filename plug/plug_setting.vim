@@ -16,9 +16,6 @@ source ~/.config/nvim/plug/vista.vim
 " Clap
 source ~/.config/nvim/plug/clap.vim
 
-" Split Term
-source ~/.config/nvim/plug/term.vim
-
 " vim-floaterm
 source ~/.config/nvim/plug/floaterm.vim
 
