@@ -19,4 +19,7 @@ source ~/.config/nvim/plug/clap.vim
 " vim-floaterm
 source ~/.config/nvim/plug/floaterm.vim
 
+" rainbow_parentheses
+source ~/.config/nvim/plug/rainbow_parentheses.vim
+
 

@@ -30,5 +30,7 @@ Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary' }
 " vim-floaterm
 Plug 'voldikss/vim-floaterm'
 
+Plug 'kien/rainbow_parentheses.vim'
+
 
 call plug#end()
