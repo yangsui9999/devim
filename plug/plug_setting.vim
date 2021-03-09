@@ -22,4 +22,9 @@ source ~/.config/nvim/plug/floaterm.vim
 " rainbow_parentheses
 source ~/.config/nvim/plug/rainbow_parentheses.vim
 
+" neoformat
+source ~/.config/nvim/plug/neoformat.vim
+
+" airline_theme
+source ~/.config/nvim/plug/airline.vim
 

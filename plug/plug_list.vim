@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/plugged')
 
 " 美化插件
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'rakr/vim-one'
 Plug 'mhinz/vim-startify'
 
@@ -32,5 +33,10 @@ Plug 'voldikss/vim-floaterm'
 
 Plug 'kien/rainbow_parentheses.vim'
 
+Plug 'sbdchd/neoformat'
+
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+Plug 'junegunn/gv.vim'
 
 call plug#end()
